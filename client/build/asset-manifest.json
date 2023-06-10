@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c5d1415.css",
+    "main.js": "/static/js/main.70de793c.js",
+    "static/js/787.633816a4.chunk.js": "/static/js/787.633816a4.chunk.js",
+    "static/media/pic2.jpg": "/static/media/pic2.e203ea28a8a08a9009f3.jpg",
+    "static/media/animate.gif": "/static/media/animate.7ee2f3450cc8a31b0cb6.gif",
+    "static/media/kalender.gif": "/static/media/kalender.5b133d558eb3901f00f7.gif",
+    "static/media/calendar-icon.png": "/static/media/calendar-icon.c430f588a00c21c49787.png",
+    "static/media/P2F_Logo.webp": "/static/media/P2F_Logo.7fb24169e5643508ae6a.webp",
+    "index.html": "/index.html",
+    "main.4c5d1415.css.map": "/static/css/main.4c5d1415.css.map",
+    "main.70de793c.js.map": "/static/js/main.70de793c.js.map",
+    "787.633816a4.chunk.js.map": "/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c5d1415.css",
+    "static/js/main.70de793c.js"
+  ]
+}
